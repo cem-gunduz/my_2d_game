@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">2d_Oyun</string>
+    <string name="baslama">Oyuna Başla</string>
+    <string name="ates">Ateş</string>
+    <string name="bitis">OYUN BİTTİ</string>
+    <string name="skor">En Yüksek Skor</string>
+    <string name="tekrar">Tekrar Dene</string>
+</resources>

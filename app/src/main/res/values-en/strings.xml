@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">2d_Oyun</string>
+    <string name="baslama">Start Game</string>
+    <string name="ates">Fire</string>
+    <string name="bitis">FINISH</string>
+    <string name="skor">Highest Score</string>
+    <string name="tekrar">Try Again</string>
+</resources>
